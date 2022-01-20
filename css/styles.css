@@ -1,0 +1,210 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+
+ @media only screen and (max-width: 1000px) {
+    
+    .image1{
+        background-position: center;
+    }
+
+    .image2{
+        background-position: center;
+    }
+
+    .image3{
+        background-position: center;
+    }
+
+
+    .textbox1 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(80px);
+        color: #FFF8F3;
+        font-size: 24px;
+    }
+
+    .textbox2 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(80px);
+        color: #FFF8F3;
+        font-size: 24px;
+    }
+
+    .textbox3 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(80px);
+        color: #FFF8F3;
+        font-size: 24px;
+    }
+
+    
+}
+
+@media only screen and (max-width: 549px) {
+    
+    .image1{
+        background-position: center;
+    }
+
+    .image2{
+        background-position: center;
+    }
+
+    .image3{
+        background-position: center;
+    }
+
+
+    .textbox1 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(50px);
+        color: #FFF8F3;
+        font-size: 20px;
+    }
+
+    .textbox2 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(50px);
+        color: #FFF8F3;
+        font-size: 20px;
+    }
+
+    .textbox3 > p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        transform: translateY(50px);
+        color: #FFF8F3;
+        font-size: 20px;
+    }
+
+    
+}
+
+.textbox1{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    transform: translateX(50%);
+    width: 50%;
+    height: 10%;
+}
+
+.textbox2{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    transform: translateX(50%);
+    width: 50%;
+    height: 10%;
+}
+
+.textbox3{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    transform: translateX(50%);
+    width: 50%;
+}
+
+.image1{
+    background-image: url("../images/milky.jpg");
+    width: 100%;
+    height: 300px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.image2{
+    background-image: url("../images/nebula.jpg");
+    width: 100%;
+    height: 300px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.image3{
+    background-image: url("../images/galaxy.jpg");
+    width: 100%;
+    height: 300px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.text{
+    background-color: #2C272E;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 100%;
+    height: 400px;
+}
+
+.text2{
+    background-color: #2C272E;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 100%;
+    height: 400px;
+}
+
+.text3{
+    background-color: #2C272E;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 100%;
+    height: 400px;
+}
+
+.paragraph1{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    transform: translateY(150px);
+    color: #FFF8F3;
+    font-size: 24px;
+}
+
+.paragraph2{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    transform: translateY(150px);
+    color: #FFF8F3;
+    font-size: 24px;
+}
+
+.paragraph3{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    transform: translateY(150px);
+    color: #FFF8F3;
+    font-size: 24px;
+}
